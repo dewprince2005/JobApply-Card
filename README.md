@@ -1,16 +1,19 @@
-# React + Vite
+💼 Job Apply Card (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Job Listing / Apply Card UI built using React + Vite. This project displays job openings from top tech companies with essential details like role, salary, location, and job type.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Tech Stack
+⚛️ React
+⚡ Vite
+🎨 CSS / (optional Tailwind)
+📦 JavaScript (ES6)
+✨ Features
+📌 Dynamic job cards using React components
+🏢 Company logo + name
+📅 Job posting time
+💼 Role display
+🏷️ Tags (Full Time, Part Time, etc.)
+💰 Salary per hour
+📍 Location (Remote supported)
+🔁 Reusable components
+⚡ Fast development with Vite
